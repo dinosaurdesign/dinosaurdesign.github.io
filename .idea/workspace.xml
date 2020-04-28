@@ -20,289 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8808b7c4-8ab3-4086-80b7-aa6bfb255c79" name="Default Changelist" comment="bootstrap theme init">
-      <change afterPath="$PROJECT_DIR$/.idea/dinosaurdesign.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/css/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/css/style_copy.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/doc/TOC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/doc/css.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/doc/extend.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/doc/faq.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/doc/html.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/doc/js.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/doc/misc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/doc/usage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/humans.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/img/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/js/index.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/js/index.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/js/vendor/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/js/vendor/modernizr-3.8.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/site.webmanifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/tile-wide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/tile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/.vs/VSWorkspaceState.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/.vs/dds-by/v16/.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/.vs/slnx.sqlite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/404.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/archive.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/assets/js/main.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/assets/js/main.js.map.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/assets/js/mixitup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/assets/js/mixitup.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/comments.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/css/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/f/DDS_Walker_Nav_Menu.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/f/f_breadcrumbs.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/f/f_order.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/f/f_remove.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/f/f_samepost.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/f/f_styles.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/f/f_thumbnail.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/footer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/front-page.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/functions.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/home.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/banners/slide1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/banners/slide2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/banners/slide3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/clients/brevis.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/clients/domino.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/clients/gastroli.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/clients/hata.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/clients/jura.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/clients/malinki.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/clients/nutshunter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/clients/pro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/clients/skazka.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/clients/smat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/clients/ugol.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/clients/vip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/dino.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/icons/behance.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/icons/download.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/icons/in-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/icons/instagram.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/icons/next-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/icons/next.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/icons/prev.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/icons/skype-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/icons/telegram-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/icons/viber-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/icons/vk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/lg_site.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/portfolio/bar2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/portfolio/domino.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/portfolio/item.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/portfolio/khata1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/portfolio/limonady.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/portfolio/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/portfolio/smart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/portfolio/sushi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/services/011-restaurant.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/services/036-website.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/img/services/icon-menu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/inc/custom-header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/inc/customizer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/inc/jetpack.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/inc/template-functions.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/inc/template-tags.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/js/main.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/js/mixitup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/js/mixitup.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/languages/dds-by.pot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/languages/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/layouts/content-sidebar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/layouts/sidebar-content.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/customizer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/jquery-3.3.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/js/bootstrap 4.1/modal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/libs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/modernizr-3.5.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/post.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_alert.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_badge.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_breadcrumb.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_button-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_card.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_carousel.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_close.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_code.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_custom-forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_images.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_input-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_jumbotron.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_list-group.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_media.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_modal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_nav.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_popover.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_print.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_reboot.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_root.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_tables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_tooltip.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_transitions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_type.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_utilities.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/bootstrap-grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/bootstrap-reboot.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/bootstrap.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_alert.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_background-variant.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_badge.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_border-radius.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_box-shadow.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_breakpoints.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_caret.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_gradients.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_grid-framework.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_nav-divider.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_size.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_table-row.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_text-emphasis.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_text-hide.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_text-truncate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_transition.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/mixins/_visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/utilities/_align.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/utilities/_background.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/utilities/_borders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/utilities/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/utilities/_display.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/utilities/_embed.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/utilities/_flex.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/utilities/_float.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/utilities/_position.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/utilities/_screenreaders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/utilities/_shadows.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/utilities/_sizing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/utilities/_spacing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/utilities/_text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/scss/bootstrap 4.1/utilities/_visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/libs/skip-link-focus-fix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/main.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/page.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/phpcs.xml.dist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/_media.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/abstract/_colors.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/abstract/_mixins.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/base/_fonts.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/base/_norm.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/component/_breabcrumbs.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/component/_modal.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/component/_navigation.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/component/_order.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/component/_slider.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/component/_toTop.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/layout/_header.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/layout/_social.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/pages/_404.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/pages/_about.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/pages/_clients.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/pages/_contacts.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/pages/_page.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/pages/_portfolio.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/pages/_services.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/pages/_single-cat-portfolio.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sass/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/search.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/sidebar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/single.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/statick_page.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/category-portfolio.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/category-service.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/components/about.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/components/carousel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/components/clients.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/components/contacts.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/components/portfolio.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/components/portfolio__item.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/components/services.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/contacts.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/content-none.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/content-page.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/content-search.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/content.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/page-about.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/page-contacts.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/single-cat-portfolio.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/single-cat-services.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/single-cat-services_OLD.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dds-by/template-parts/single.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/TOC.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/css.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/extend.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/faq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/html.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/js.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/misc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/usage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/humans.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/index.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/index.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/jquery-3.4.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/modernizr-3.8.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tile-wide.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -423,7 +141,7 @@
       <workItem from="1587996789510" duration="3407000" />
       <workItem from="1588073247457" duration="2247000" />
       <workItem from="1588088017125" duration="2530000" />
-      <workItem from="1588091168569" duration="1286000" />
+      <workItem from="1588091168569" duration="2005000" />
     </task>
     <task id="LOCAL-00001" summary="index">
       <created>1587994635774</created>
@@ -495,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588074749723</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="wp static">
+      <created>1588093070675</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1588093070675</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -523,7 +248,8 @@
     <MESSAGE value="index init" />
     <MESSAGE value="bootstrap init" />
     <MESSAGE value="bootstrap theme init" />
-    <option name="LAST_COMMIT_MESSAGE" value="bootstrap theme init" />
+    <MESSAGE value="wp static" />
+    <option name="LAST_COMMIT_MESSAGE" value="wp static" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="208" key="CommitChangelistDialog2" timestamp="1588073709319">
@@ -554,10 +280,10 @@
       <screen x="0" y="0" width="1854" height="1080" />
     </state>
     <state x="428" y="185" key="SettingsEditor/0.0.1854.1080@0.0.1854.1080" timestamp="1587999943706" />
-    <state x="519" y="273" key="Vcs.Push.Dialog.v2" timestamp="1588074825296">
+    <state x="519" y="273" key="Vcs.Push.Dialog.v2" timestamp="1588093112527">
       <screen x="0" y="0" width="1854" height="1080" />
     </state>
-    <state x="519" y="273" key="Vcs.Push.Dialog.v2/0.0.1854.1080@0.0.1854.1080" timestamp="1588074825296" />
+    <state x="519" y="273" key="Vcs.Push.Dialog.v2/0.0.1854.1080@0.0.1854.1080" timestamp="1588093112527" />
     <state x="736" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588073836139">
       <screen x="0" y="0" width="1854" height="1080" />
     </state>
