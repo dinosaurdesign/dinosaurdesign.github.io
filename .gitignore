@@ -1,8 +1,10 @@
 # Include your project-specific ignores in this file
 # Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
 # Useful .gitignore templates: https://github.com/github/gitignore
-/src/
+/old/src/
 _*.html
 *.conf
 /node_modules/
-/dds-by/
+/src/dds-by/
+/old/
+/old/
