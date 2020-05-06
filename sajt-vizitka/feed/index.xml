@@ -14,11 +14,11 @@
 	<atom:link href="https://dds.by/sajt-vizitka/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dds.by/sajt-vizitka/</link>
 	<description></description>
-	<lastBuildDate>Sun, 10 Mar 2019 19:54:38 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 May 2020 12:34:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4</generator>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
 </channel>
 </rss>

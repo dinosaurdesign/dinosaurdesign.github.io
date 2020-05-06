@@ -14,11 +14,11 @@
 	<atom:link href="https://dds.by/oformlenie-fotozonyi-kluba-shayba/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dds.by/oformlenie-fotozonyi-kluba-shayba/</link>
 	<description></description>
-	<lastBuildDate>Sun, 31 Mar 2019 10:50:04 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 May 2020 14:08:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4</generator>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
 </channel>
 </rss>

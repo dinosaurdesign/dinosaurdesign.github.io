@@ -15,13 +15,13 @@
 	<atom:link href="https://dds.by/category/services/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dds.by/</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Mar 2019 19:04:17 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 May 2020 12:52:58 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4</generator>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
 
 <image>
 	<url>https://dds.by/wp-content/uploads/2018/08/cropped-D_dlya_sayta1-1-32x32.png</url>
@@ -73,7 +73,7 @@
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1082</post-id>	</item>
 		<item>
-		<title>Landing Page</title>
+		<title>Интерактивный сайт</title>
 		<link>https://dds.by/landing-page/</link>
 					<comments>https://dds.by/landing-page/#respond</comments>
 		
@@ -83,9 +83,9 @@
 		<guid isPermaLink="false">https://dds.by/?p=1080</guid>
 
 					<description><![CDATA[<p>				Lorem ipsum dolor sit amet, consectetur adipisicing elit. A alias ducimus nemo nisi perferendis provident quas quisquam sed tempora voluptates. Accusamus atque cumque deleniti, ex expedita possimus reprehenderit vitae voluptatum?		</p>
-<p>Сообщение <a rel="nofollow" href="https://dds.by/landing-page/">Landing Page</a> появились сначала на <a rel="nofollow" href="https://dds.by/">Dinnersaur Design - Дизайн ресторанного бизнеса</a>.</p>
+<p>Сообщение <a rel="nofollow" href="https://dds.by/landing-page/">Интерактивный сайт</a> появились сначала на <a rel="nofollow" href="https://dds.by/">Dinnersaur Design - Дизайн ресторанного бизнеса</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>Сообщение <a rel="nofollow" href="https://dds.by/landing-page/">Landing Page</a> появились сначала на <a rel="nofollow" href="https://dds.by/">Dinnersaur Design - Дизайн ресторанного бизнеса</a>.</p>
+										<content:encoded><![CDATA[<p>Сообщение <a rel="nofollow" href="https://dds.by/landing-page/">Интерактивный сайт</a> появились сначала на <a rel="nofollow" href="https://dds.by/">Dinnersaur Design - Дизайн ресторанного бизнеса</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://dds.by/landing-page/feed/</wfw:commentRss>
@@ -262,13 +262,13 @@
                         <h4 class=" text-center">Сайт доставки еды </h4>
                     </div>
                     <div class="card_cost">
-                        <p>Стоимость: от 1600 BYN
+                        <p>Стоимость: от 2000 BYN
                             <br>
-                            Срок: от 3 недель</p>
+                            Срок: от 6 недель</p>
                     </div>
-                    <button data-toggle="modal" data-target="#modal_ex" class="card_button btn btn-primary">
-                        Заказать
-                    </button>
+<!--                    <button data-toggle="modal" data-target="#modal_ex" class="card_button btn btn-primary">-->
+<!--                        Заказать-->
+<!--                    </button>-->
                 </div>
 			
                 <div class="col-12 col-md-4 card order_card">
@@ -281,32 +281,32 @@
                         <h4 class=" text-center">Сайт визитка </h4>
                     </div>
                     <div class="card_cost">
-                        <p>Стоимость: от 800 BYN
+                        <p>Стоимость: от 1200 BYN
                             <br>
-                            Срок: от 1 недель</p>
+                            Срок: от 3 недель</p>
                     </div>
-                    <button data-toggle="modal" data-target="#modal_ex" class="card_button btn btn-primary">
-                        Заказать
-                    </button>
+<!--                    <button data-toggle="modal" data-target="#modal_ex" class="card_button btn btn-primary">-->
+<!--                        Заказать-->
+<!--                    </button>-->
                 </div>
 			
                 <div class="col-12 col-md-4 card order_card">
                     <div class="embed-responsive embed-responsive-4by3">
-                        <img src=" https://dds.by/wp-content/uploads/2019/03/land.png"
+                        <img src=" https://dds.by/wp-content/uploads/2019/03/team-mockup.png"
                              class="card-img-top embed-responsive-item"
                              alt="Сайт для ресторана">
                     </div>
                     <div class="card-title">
-                        <h4 class=" text-center">Landing Page </h4>
+                        <h4 class=" text-center">Интерактивный сайт </h4>
                     </div>
                     <div class="card_cost">
-                        <p>Стоимость: от 800 BYN
+                        <p>Стоимость: от 1600 BYN
                             <br>
-                            Срок: от 1 недель</p>
+                            Срок: от 3 недель</p>
                     </div>
-                    <button data-toggle="modal" data-target="#modal_ex" class="card_button btn btn-primary">
-                        Заказать
-                    </button>
+<!--                    <button data-toggle="modal" data-target="#modal_ex" class="card_button btn btn-primary">-->
+<!--                        Заказать-->
+<!--                    </button>-->
                 </div>
 			        </div>
     </div>
@@ -318,7 +318,7 @@
 
 
 
-<ol><li>Самый простой -это <strong>сайт-визитка</strong>, на котором будет всего лишь несколько страниц. Там могут быть такие разделы, как меню ресторана, контакты. Чаще всего такой сайт не будет перегружен информацией, нет необходимости в постоянном обновлении.&nbsp;Вы можете рассказать клиентам об акции и специальном предложении, пополнить меню сайта.</li><li><strong>Интерактивный сайт, </strong>можно будет&nbsp;забронировать столик онлайн. Это позволит сэкономить время вашим клиентам и не пытаться дозвониться к вам на телефон, если он постоянно занят. Хорошим вариантом будет и предоставление возможности осмотреть зал виртуально, а также сделать заказ столика исходя из определенного бюджета.</li><li><strong>Сайт доставки</strong>, на котором пользователи смогут заказать вашу еду на дом.</li></ol>
+<ol><li>Самый простой -это <strong>сайт-визитка</strong>, на котором будет  несколько страниц. Там могут быть такие разделы, как меню ресторана, контакты. Чаще всего такой сайт не будет перегружен информацией, нет необходимости в постоянном обновлении.&nbsp;Вы можете рассказать клиентам об акции и специальном предложении, пополнить меню сайта.</li><li><strong>Интерактивный сайт, </strong>можно будет&nbsp;забронировать столик онлайн. Это позволит сэкономить время вашим клиентам и не пытаться дозвониться к вам на телефон, если он постоянно занят. Хорошим вариантом будет и предоставление возможности осмотреть зал виртуально, а также сделать заказ столика исходя из определенного бюджета. Если вы проводите мероприятия, то вам будет просто необходимо осуществлять продажу билетов с сайта маркированных одноразовыми QR-кодами.</li><li><strong>Сайт доставки</strong>, на котором пользователи смогут заказать вашу еду на дом.</li></ol>
 
 
 
@@ -347,13 +347,6 @@
 
 
 <p>При разработке сайтов мы не используем шаблоны! Каждый проект&nbsp; индивидуален и уникален. Поработав с нами &#8212; Вы можете быть уверены, что обладаете уникальным продуктом и больше такого ни у кого нет. Поэтому стоимость и время разработки зависят от дизайнерских решений и функционала, который вы захотите использовать на своем будущем сайте.<br></p>
-
-
-
-<h3 style="text-align:center">Заказать разработку сайта</h3>
-
-
-[contact-form-7]
 <p>Сообщение <a rel="nofollow" href="https://dds.by/web/">Сайт для ресторана</a> появились сначала на <a rel="nofollow" href="https://dds.by/">Dinnersaur Design - Дизайн ресторанного бизнеса</a>.</p>
 ]]></content:encoded>
 					

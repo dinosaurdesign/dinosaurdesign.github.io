@@ -10,15 +10,15 @@
 	>
 <channel>
 	<title>
-	Комментарии: Дизайн меню для гастрономического бара УГØЛ 90	</title>
+	Комментарии: Дизайн меню для бара УГØЛ 90	</title>
 	<atom:link href="https://dds.by/ugol-90-menu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dds.by/ugol-90-menu/</link>
 	<description></description>
-	<lastBuildDate>Sun, 28 Apr 2019 08:18:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 May 2020 13:56:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4</generator>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
 </channel>
 </rss>

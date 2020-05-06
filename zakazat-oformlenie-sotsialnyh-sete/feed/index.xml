@@ -14,11 +14,11 @@
 	<atom:link href="https://dds.by/zakazat-oformlenie-sotsialnyh-sete/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dds.by/zakazat-oformlenie-sotsialnyh-sete/</link>
 	<description></description>
-	<lastBuildDate>Mon, 11 Mar 2019 18:06:01 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 May 2020 12:31:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4</generator>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
 </channel>
 </rss>
